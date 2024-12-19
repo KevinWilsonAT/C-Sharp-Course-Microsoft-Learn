@@ -1,9 +1,5 @@
 
-/CSharp-2.7-FirstProgram/bin/Debug/net8.0
-/CSharp-2.7-FirstProgram/obj/Debug/net8.0
-/CSharp-2.7-FirstProgram/obj
-CSharp-2.7-FirstProgram/CSharp-2.7-FirstProgram.csproj
-C-Sharp-Course-Microsoft-Learn.sln
-/Csharp-1.7-FirstProgram/obj
+/2.1.7-FirstProgram/obj
+/2.2.5-MethodCall/obj
 *.csproj
-/Csharp-2.5-MethodCall/obj
+/2.2.7-ConditionIf/obj
