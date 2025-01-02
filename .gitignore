@@ -1,5 +1,21 @@
 
+*.csproj
 /2.1.7-FirstProgram/obj
 /2.2.5-MethodCall/obj
-*.csproj
 /2.2.7-ConditionIf/obj
+/2.3.5-SubscriptionRenovation/obj
+/2.4.2-MatrixArrays/obj
+/2.4.3-ForEach/obj
+/2.4.4-ArrayChallenge/obj
+/2.5.3-Comments/obj
+/2.5.4-BlankSpace/obj
+/2.6.3-MatrixAndForeach/obj
+/2.6.4-ExerciseLoopStudentRankCalc/obj
+/2.6.5-ExerciseBranches/obj
+/3.1.2-BooleanExpressions/obj
+/3.1.3-ImplementConditionalOperator/obj
+/3.1.5-ChallengeHeadsTails/obj
+/3.1.7-ChallengeLevelAndPermission/obj
+/3.2.2-CodeblocksVariableScope/obj
+/3.2.3-RemoveCodeblocksIf/obj
+/3.2.5-ChallengeVariableScope/obj
